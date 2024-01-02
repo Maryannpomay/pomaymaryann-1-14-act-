@@ -1,0 +1,32 @@
+.flex-item{
+    background-color: cadetblue;
+    font-size: 60px;
+    text-align: center;
+}
+.flex-con2{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+}
+.flex-item2{
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    height: 60px;
+}
+.flex-con3{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+}
+.flex-item3{
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    height: 60px;
+}
+

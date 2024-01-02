@@ -1,0 +1,35 @@
+.flex-item{
+    background-color: rgb(101, 233, 24);
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
+.flex-con2{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(224, 137, 22);
+    padding: 30px;
+}
+.flex-item2{
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    height: 40px;
+}
+.flex-con3{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(202, 17, 141);
+    
+}
+.flex-item3{
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    height: 60px;
+}
+
